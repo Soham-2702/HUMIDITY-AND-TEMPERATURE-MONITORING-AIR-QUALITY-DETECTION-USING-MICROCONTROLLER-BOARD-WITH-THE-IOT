@@ -1,0 +1,2 @@
+# HUMIDITY-AND-TEMPERATURE-MONITORING-AIR-QUALITY-DETECTION-USING-MICROCONTROLLER-BOARD-WITH-THE-IOT
+The "Humidity, Temperature Monitoring and Air Quality  Detection using Microcontroller Board with IoT" project presents a  comprehensive solution for real-time environmental monitoring. By leveraging  the power of Internet of Things (IoT) technology, the system enables continuous  tracking of temperature, humidity, and air quality.
